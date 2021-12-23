@@ -1,0 +1,52 @@
+{
+    "Gamelist": [
+      {
+            "id": 1,
+            "title": "RPSLS",
+            "isLocked": false,
+            "highestScore": 0,
+            "price": 0,
+            "thumbnailPath": "RPSLSThumbnail"
+      },
+      {
+        "id": 2,
+        "title": "Smash",
+        "isLocked": true,
+        "highestScore": 0,
+        "price": 699,
+        "thumbnailPath": "SmashThumbnail"
+      },
+      {
+        "id": 3,
+        "title": "Mine Slayer",
+        "isLocked": true,
+        "highestScore": 0,
+        "price": 1001,
+        "thumbnailPath": "MineSlayerThumbnail"
+      },
+      {
+        "id": 4,
+        "title": "Hotfoot Dino",
+        "isLocked": true,
+        "highestScore": 0,
+        "price": 2019,
+        "thumbnailPath": "HotfootDinoThumbnail"
+      },
+      {
+        "id": 5,
+        "title": "Link Up 2048",
+        "isLocked": true,
+        "highestScore": 0,
+        "price": 3985,
+        "thumbnailPath": "LinkUp2048Thumbnail"
+      },
+      {
+        "id": 6,
+        "title": "Tap Tap Bird!",
+        "isLocked": true,
+        "highestScore": 0,
+        "price": 6000,
+        "thumbnailPath": "TapTapBirdThumbnail"
+      }
+    ]
+}

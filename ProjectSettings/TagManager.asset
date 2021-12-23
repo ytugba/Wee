@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - ground
+  - obstacle
+  - bullet
+  - enemy
+  - MineField
+  - SmashBlock
+  - Audio
+  - BG1
+  - Food
+  - Quad
+  - Pixels
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - front
+  - WeirdPhysics
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 720231661
+    locked: 0
+  - name: Midground
+    uniqueID: 4093699959
+    locked: 0
+  - name: Foreground
+    uniqueID: 1848364181
+    locked: 0
